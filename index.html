@@ -39,24 +39,7 @@
     <div class="content" id="constitution"></div>
     <div class="content" style="margin-bottom: 3vh;" id="laws"></div>
     <div class="content" id="plaws"></div>
-    <script type="module">
-        import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
-        const constitutionurl = "https://raw.githubusercontent.com/Parliament-of-Arkiden/Parliament-of-Arkiden.github.io/main/CONSTITUTION/index.md";
-        const constitutionmarkdown = await fetch(constitutionurl).then(r => r.text());
-        document.getElementById("constitution").innerHTML = marked.parse(constitutionmarkdown);
-        
-        const descriptionurl = "https://raw.githubusercontent.com/Parliament-of-Arkiden/Parliament-of-Arkiden.github.io/main/README.md";
-        const descriptionmarkdown = await fetch(descriptionurl).then(r => r.text());
-        document.getElementById("description").innerHTML = marked.parse(descriptionmarkdown);
-        
-        const lawsurl = "https://raw.githubusercontent.com/Parliament-of-Arkiden/Parliament-of-Arkiden.github.io/main/LAWS/PASSED/index.md";
-        const lawsmarkdown = await fetch(lawsurl).then(r => r.text());
-        document.getElementById("laws").innerHTML = marked.parse(lawsmarkdown);
-        
-        const plawsurl = "https://raw.githubusercontent.com/Parliament-of-Arkiden/Parliament-of-Arkiden.github.io/main/LAWS/PROPOSED/index.md";
-        const plawsmarkdown = await fetch(plawsurl).then(r => r.text());
-        document.getElementById("plaws").innerHTML = marked.parse(plawsmarkdown);
-    </script>
+    <script src="./script.js" type="module"></script>
 </body>
 <footer>
     <a href="mailto:Parliament.Arkiden@proton.me?body=Dear%20Parliament%20%26%20Administration%20of%20Arkiden%2C%0A%0AMessage%0A%0ASincerly%2C%0AName" style="align-self: center; color: black;">✉ parliament.arkiden@proton.me</a>
