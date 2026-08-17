@@ -28,4 +28,4 @@ An Administrative Amendment Bill is an addition that could be added to an Execut
 All documents of Law are to be codified and stored in a external digital collection (external as in out of the current vector of communication such as Whatsapp, Discord or iMessage) and stored according to its federal precedence, if it is national or statutory; and its typing, being Legislative, Constitutional, Executive or Administrative.
 
 Signed by:
-...
+- The Parliament of Arkiden
