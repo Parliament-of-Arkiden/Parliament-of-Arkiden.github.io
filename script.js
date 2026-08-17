@@ -14,3 +14,11 @@ document.getElementById("laws").innerHTML = marked.parse(lawsmarkdown);
 const plawsurl = "./LAWS/PROPOSED/index.md";
 const plawsmarkdown = await fetch(plawsurl).then(r => r.text());
 document.getElementById("plaws").innerHTML = marked.parse(plawsmarkdown);
+
+const partydescurl = "./description.md";
+const partydescmarkdown = await fetch(partydescurl).then(r => r.text());
+document.getElementById("party-desc").innerHTML = marked.parse(partydescmarkdown);
+
+const partymaniurl = "./description.md";
+const partymanimarkdown = await fetch(partymaniurl).then(r => r.text());
+document.getElementById("party-mani").innerHTML = marked.parse(partymanimarkdown);
