@@ -26,4 +26,4 @@ All people who step foot into Arkidine Land have the right to recognition as a p
 No person shall be held in slavery, servitude or any other forceful, unpaid, nonconsensual labour.
 
 Signed by:
-...
+- The Parliament of Arkiden
