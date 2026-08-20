@@ -34,7 +34,16 @@ footer {
     flex-direction: row;
     justify-content: center;
     text-decoration: none;
+    margin-bottom: 1vh;
 }
+
+h2 {
+    background: #f4f4f4
+} 
+
+h3 {
+    background: #f4f4f4
+} 
 
 .partylist a {
     color: black;

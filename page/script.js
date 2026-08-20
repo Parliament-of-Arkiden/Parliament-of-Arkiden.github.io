@@ -1,3 +1,4 @@
+import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js"
 const pmurl = "./manifest.md";
 const pmmarkdown = await fetch(pmurl).then(r => r.text());
 document.getElementById("party-mani").innerHTML = marked.parse(pmmarkdown);

@@ -1,4 +1,4 @@
-import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js"
 const constitutionurl = "./CONSTITUTION/index.md";
 const constitutionmarkdown = await fetch(constitutionurl).then(r => r.text());
 document.getElementById("constitution").innerHTML = marked.parse(constitutionmarkdown);
