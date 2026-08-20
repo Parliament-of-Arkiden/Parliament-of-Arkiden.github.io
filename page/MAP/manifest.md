@@ -1,4 +1,3 @@
-The MAP want you, the people to truly own your money, your resources and your identity.
 **What are our policies?**
 - Slash tariffs, subsidies, taxes and price controls - we want your money to belong to you, not anyone else.
 - Free market - in addition to no tariffs, we promise to allow *total* free trade.
