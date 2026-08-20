@@ -37,21 +37,23 @@ footer {
     margin-bottom: 1vh;
 }
 
-h2 {
+.header {
     background: #f4f4f4;
     width: 100vw;
     text-align: center;
-} 
-
-h3 {
-    background: #f4f4f4;
-    width: 100vw;
-    text-align: center;
-} 
+    color: black;
+    text-decoration: underline;
+}
 
 .partylist a {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     align-self: center;
     margin: 0 0.5vw 0 0.5vw;
+}
+
+.content h1,
+.content h2,
+.content h3 {
+    margin: 3px 3px 3px 3px
 }
