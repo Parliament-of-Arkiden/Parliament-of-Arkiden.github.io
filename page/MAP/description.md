@@ -1,0 +1,1 @@
+The MAP want you, the people to truly own your money, your resources and your identity.
