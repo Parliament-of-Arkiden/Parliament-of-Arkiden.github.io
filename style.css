@@ -38,11 +38,15 @@ footer {
 }
 
 h2 {
-    background: #f4f4f4
+    background: #f4f4f4;
+    width: 100vw;
+    text-align: center;
 } 
 
 h3 {
-    background: #f4f4f4
+    background: #f4f4f4;
+    width: 100vw;
+    text-align: center;
 } 
 
 .partylist a {
