@@ -1,6 +1,3 @@
-## The Republic of Arkiden
-
-### What can you expect?
-- [x] Legislature for the Parliament of Arkiden
-- [x] Bureaucracy
-- [x] Graphs     
+<h3 align="center" style="margin-bottom: 1px">Republic of Arkiden</h3>
+<div align="center" style="margin-bottom: 1px">
+</div>
