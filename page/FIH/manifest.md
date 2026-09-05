@@ -1,27 +1,29 @@
-**-🐟-𝗙𝗶𝘀𝗵 𝗣𝗮𝗿𝘁𝘆 𝗠𝗮𝗻𝗶𝗳𝗲𝘀𝘁𝗼-🐟-**
+### Fish Party Manifesto
+---
+**Presidental Candidate:**
 
-𝘗𝘳𝘦𝘴𝘪𝘥𝘦𝘯𝘵𝘪𝘢𝘭 𝘊𝘢𝘯𝘥𝘪𝘥𝘢𝘵𝘦 _:_
+**╰─ ⋆𝘮𝘢𝘨𝘯𝘦𝘴𝘪𝘶𝘮⋆**
 
-╰─ ⋆𝘮𝘢𝘨𝘯𝘦𝘴𝘪𝘶𝘮⋆
+**Prime Ministerial Candidate:**
 
-𝘗𝘳𝘪𝘮𝘦 𝘔𝘪𝘯𝘪𝘴𝘵𝘦𝘳𝘪𝘢𝘭 𝘊𝘢𝘯𝘥𝘪𝘥𝘢𝘵𝘦 _:_
+**╰─ Osé**
 
-╰─ Osé
+---
 
-𝘼𝙧𝙠𝙞𝙙𝙚𝙣 𝙞𝙨 𝙖𝙢𝙖𝙯𝙞𝙣𝙜, 𝙗𝙪𝙩 𝙞𝙩 𝙣𝙚𝙚𝙙𝙨 𝙩𝙤 𝙗𝙚 𝙚𝙫𝙚𝙣 𝙗𝙚𝙩𝙩𝙚𝙧 𝙞𝙛 𝙞𝙩 𝙬𝙖𝙣𝙩𝙨 𝙩𝙤 𝙜𝙧𝙤𝙬.
+**Arkiden is amazing, but it needs to be even better if it wants to grow.**
 
-𝙏𝙝𝙚 𝙁𝙞𝙨𝙝 𝙋𝙖𝙧𝙩𝙮 𝙬𝙞𝙡𝙡 𝙬𝙤𝙧𝙠 𝙤𝙣 _𝟱_ 𝙤𝙗𝙟𝙚𝙘𝙩𝙞𝙫𝙚𝙨 𝙩𝙤 𝙗𝙚𝙩𝙩𝙚𝙧 𝘼𝙧𝙠𝙞𝙙𝙚𝙣 **_:_**
+**The Fish Party will work on 5 objectives to better Arkiden:**
+---
 
+**𓆝🩵 Help fish**
 
-**𓆝🩵 𝘏𝘦𝘭𝘱 𝘧𝘪𝘴𝘩**
+**𓆡💚 Encourage sustainability**
 
-**𓆡💚 𝘌𝘯𝘤𝘰𝘶𝘳𝘢𝘨𝘦 𝘴𝘶𝘴𝘵𝘢𝘪𝘯𝘢𝘣𝘪𝘭𝘪𝘵𝘺**
+**𓆞🩷 Streamline processes**
 
-**𓆞🩷 𝘚𝘵𝘳𝘦𝘢𝘮𝘭𝘪𝘯𝘦 𝘱𝘳𝘰𝘤𝘦𝘴𝘴𝘦𝘴**
+**𓆛💛 Regulate trade**
 
-**𓆛💛 𝘙𝘦𝘨𝘶𝘭𝘢𝘵𝘦 𝘵𝘳𝘢𝘥𝘦**
+**🐟🤍 Promote growth of Arkiden as a country and acommunity.**
 
-**🐟🤍 𝘗𝘳𝘰𝘮𝘰𝘵𝘦 𝘨𝘳𝘰𝘸𝘵𝘩 𝘰𝘧 𝘈𝘳𝘬𝘪𝘥𝘦𝘯 𝘢𝘴 𝘢 𝘤𝘰𝘶𝘯𝘵𝘳𝘺 𝘢𝘯𝘥 𝘢 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺.**
-
-
-𝗩𝗼𝘁𝗲 𝗙𝗜𝗛 𝗳𝗼𝗿 𝗮 𝗺𝗼𝗿𝗲 𝗮𝗺𝗮𝘇𝗶𝗻𝗴 𝗔𝗿𝗸𝗶𝗱𝗲𝗻!
+---
+**Vote FIH for a more amazing Arkiden**
