@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 .content {
-    width: 40vw;
+    width: 70%;
     display: flex;
     flex-direction: column;
     background: #f4f4f4;
@@ -56,4 +56,5 @@ footer {
 .content h2,
 .content h3 {
     margin: 3px 3px 3px 3px
+    font-size: 18px
 }
