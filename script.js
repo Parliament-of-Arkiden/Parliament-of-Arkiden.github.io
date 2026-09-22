@@ -16,5 +16,5 @@ const plawsmarkdown = await fetch(plawsurl).then(r => r.text());
 document.getElementById("plaws").innerHTML = marked.parse(plawsmarkdown);
 
 const hansardurl = "./HANSARD/index.md";
-const plawsmarkdown = await fetch(hansardurl).then(r => r.text());
+const hansardmarkdown = await fetch(hansardurl).then(r => r.text());
 document.getElementById("hansard").innerHTML = marked.parse(hansardmarkdown);
