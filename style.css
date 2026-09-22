@@ -28,6 +28,8 @@ body {
     h3 {
         font-size: 16px !important
     }
+    p {
+        font-size: 14px !important
 }
 
 footer {
@@ -61,9 +63,20 @@ footer {
     margin: 0 0.5vw 0 0.5vw;
 }
 
-.content h1,
-.content h2,
-.content h3 {
-    margin: 3px 3px 3px 3px
-    font-size: 18px
+h1,
+h2,
+h3 {
+    margin: 3px 3px 3px 3px !important;
+}
+
+h1 {
+    font-size: 24px !important
+}
+
+h2 {
+    font-size: 22px !important
+}
+
+h3 {
+    font-size: 20px !important
 }
