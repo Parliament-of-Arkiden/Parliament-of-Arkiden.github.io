@@ -64,6 +64,9 @@ footer {
     margin: 0 0.5vw 0 0.5vw;
 }
 
+p {
+    margin: 3px 0 3px 0 !important
+
 h1,
 h2,
 h3 {
