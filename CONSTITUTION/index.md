@@ -1,7 +1,7 @@
 ### Constitution
 
 <details>
-  <summary><b>The Constitutional Bill of Rights</summary>
+  <summary>The Constitutional Bill of Rights</summary>
 coded: 17/08/2026
     
 modified: 17/08/2026
@@ -32,7 +32,7 @@ Signed by:
 
 
 <details>
-  <summary><b>The Constitutional Bill of Parliamentary Powers</summary>
+  <summary>The Constitutional Bill of Parliamentary Powers</summary>
 coded: 17/08/2026
   
 modified: 17/08/2026
@@ -65,7 +65,7 @@ Signed by:
 </details>
 
 <details>
-  <summary><b>The Constitutional Bill of Lawfull Prosecution</b></summary>
+  <summary>The Constitutional Bill of Lawfull Prosecution</summary>
 coded: 17/08/2026
   
 modified: 17/08/2026
