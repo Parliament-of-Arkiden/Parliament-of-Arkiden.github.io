@@ -1,4 +1,4 @@
-*Executive Order to re-evaluate state autonomy and right to secede*
+**Executive Order to re-evaluate state autonomy and right to secede**
 
 As President, I would like to declare a special autonomy status for the state of the Adriatic Island given is deeply unique interests and large distance from the mainland. 
 
