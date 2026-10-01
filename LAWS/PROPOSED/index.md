@@ -1,3 +1,5 @@
+### Proposed Laws
+
 <details>
   <summary>Federal Military and State Militia Limits Act</summary>
   **Federal Military and State Militia Limits Act**
