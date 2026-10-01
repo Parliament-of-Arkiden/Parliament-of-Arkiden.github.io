@@ -1,3 +1,5 @@
+### Passed Laws
+
 <details>
   <summary>Executive</summary>
   <details>
