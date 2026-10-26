@@ -7,5 +7,7 @@
 
 ---
 
-<img src="./assets/parl20west.jpg" width="300" height="200">
+<img src="./assets/parl20west.jpg" width="300" height="300">
+
+---
 </div>
