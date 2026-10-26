@@ -3,7 +3,7 @@
 ---
 
 <div align="center" style="margin-bottom: 1px">
-<img src="./assets/parl20arch.jpg" width="375" height="192">
+<img src="./assets/parl20arch.jpg" style="width: 100%; aspect-ratio: 375 / 192; object-fit: cover;">
 
 ---
 
