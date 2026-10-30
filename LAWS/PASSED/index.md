@@ -112,6 +112,26 @@ To cope with the high amount of immigration, of which a ridiculously large propo
 - To temporarily support the high proportion of pensioners, the Adriatic Island will offer work visas with the opportunity to settle to foreign people looking for opportunities to become apprentices in highly specialised careers, for the next 5 years only.
 
 </details>
+
+<details>
+  <summary>Rainforest Preservation Act</summary>
+
+To preserve the unique biodiversity and beauty of the Adriatic Island's rainforests, this law will enable the government to declare green belts, which are large areas of land where development and resource extraction of any sort is prohibited.
+
+Green belts will be in 3 tiers:
+
+- **Tight Belt:** No development of any kind allowed
+- **Normal Belt:** Development requires special permission from the government
+- **Loose Belt:** Development needs specific considerations to local wildlife
+
+</details>
+
+<details>
+  <summary>Abolition of VAT on the Hospitality Industry</summary>
+
+To support tourism and restaurants, the Adriatic Island will abolish VAT on services deemed to be in the hospitality industry.
+
+</details>
 </details>
 
 <details>
