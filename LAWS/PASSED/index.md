@@ -33,6 +33,31 @@ President Daniel
 - Prison building is up to the states, since some have gone forward already
 
 </details>
+
+<details>
+  <summary>Pensions Act</summary>
+
+Every citizen at age 65 or after 40 years of work, whichever is shorter, may legally retire and no longer work unless they choose, and will receive a basic state pension of $200 per week. A private pension is applied afterwards depending on the careers of the retiree, and every employer will be required to make a clear pension policy.
+
+**Regional adjustment**
+
+To adjust the state pension to local purchasing power, the state pension will use an index multiplier of purchasing power based on median income.
+
+- A median income above the national median will have a positive multiplier.
+- A median income below the national median will not be multiplied.
+
+*Example:* if a state's average income is 25% higher than the national, the state pension will be multiplied by 1.25x, resulting in $250 per week.
+
+**Increases**
+
+- Pensions must increase by no less than half of CPI.
+- Pensions will automatically rise by CPI unless a government sets it otherwise.
+
+**Private pension offset**
+
+State pension will decrease by $0.50 for every $1 of private pension past $50 per week.
+
+</details>
 </details>
 
 <details>
