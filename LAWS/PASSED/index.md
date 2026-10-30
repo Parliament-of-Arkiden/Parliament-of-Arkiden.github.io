@@ -39,6 +39,82 @@ President Daniel
   <summary>State</summary>
 
 <details>
+  <summary>Adriatic Islands</summary>
+
+<details>
+  <summary>Adriatic Firearms Act</summary>
+
+Within the state of the Adriatic Island, it is legal to own only a handgun or rifle with clear hunting purposes. Weapons heavier than this may not be owned by ordinary civilians and can carry up to 10 years in prison.
+
+It is also legal to own and carry any knife or legal firearms in public, given it is not directly used to intimidate, harm, or threaten.
+
+**Sales and licensing**
+
+- Legal firearms may only be bought from registered and licensed shops, which must keep records of their sales and be inspected unexpectedly to check for health and safety standards and compliance with the law.
+- To purchase a firearm, you must have a licence, which can be obtained by request to the government.
+- A licence may only be blocked for criminal or mental health reasons, or for connections to people with those problems.
+- A training course must be completed before the licence is granted.
+
+</details>
+
+<details>
+  <summary>Adriatic Trade Protection Act</summary>
+
+To encourage the self-sufficiency of the Adriatic economy in core domestic sectors such as farming, construction, and fishing, the government will take the following measures to support Adriatic-based businesses:
+
+1. 25% tariffs on all fish not caught by Adriatic fishermen
+2. Abolishing inheritance tax on vessels worth under $100,000
+3. Abolishing VAT on fishing and farming equipment
+4. Imposing a 25% tariff on foreign tropical food products, such as sugar, bananas, mangoes, etc.
+
+</details>
+
+<details>
+  <summary>Fort Archie Business Act</summary>
+
+An Act to regulate commercial enterprises within the Fort of Duke Archie, establish fair corporate taxation, and secure funding for public infrastructure and island defense.
+
+This law applies to all commercial entities, trade ventures, and service providers operating within the territorial boundaries of Fort Archie.
+
+**Tax tiers**
+
+Commercial entities operating within the territory are categorised into four distinct tax tiers based on their average monthly gross revenue:
+
+- **Tier 1: Small Business** (under $5,000 / month)
+  - Tax rate: 0% (tax-exempt)
+- **Tier 2: Medium Business** ($5,000 to $10,000 / month)
+  - Tax rate: 2% flat corporate tax on gross revenues
+- **Tier 3: Large Business** ($10,001 to $40,000 / month)
+  - Tax rate: 5% flat corporate tax on gross revenues
+- **Tier 4: Extra Large / Enterprise** ($40,000+ / month)
+  - Tax rate: 7% flat corporate tax on gross revenues
+
+**Purpose:** The tax is to support growing local enterprises while contributing lightly to island upkeep.
+
+**Exceptions**
+
+- Anything outside of Fort Archie territory
+- Local agricultural innovation
+- Renewable energy production
+- Direct logistics, equipment maintenance, or supply manufacturing for the State Guard
+- Military businesses
+
+</details>
+
+<details>
+  <summary>Adriatic Immigration Points System Act</summary>
+
+To cope with the high amount of immigration, of which a ridiculously large proportion are foreign pensioners who do not pay taxes, and to preserve the native people of the Adriatic Island, the government will use a new points-based system for immigration.
+
+- There will be a hard cap of 100,000 immigrants of any kind per year, prioritised through points awarded based on qualifications and connections to the state.
+- The City of Port Jack University will accept as many native Adriatic Islanders as it fairly can before allowing foreign students to attend.
+- Current immigrants who have settled legally will not be deported or required to leave.
+- To temporarily support the high proportion of pensioners, the Adriatic Island will offer work visas with the opportunity to settle to foreign people looking for opportunities to become apprentices in highly specialised careers, for the next 5 years only.
+
+</details>
+</details>
+
+<details>
   <summary>Al-Nekyar</summary>
 
 <details>
@@ -216,7 +292,6 @@ When transporting in public, the ammunition and the gun itself must be kept sepa
 
 Defending your own home with a firearm is legal.
 
-</details>
 </details>
 </details>
 </details>
